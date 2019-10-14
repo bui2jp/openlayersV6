@@ -1,1 +1,1 @@
-# openlayersV6
+# Sample openlayersV6
